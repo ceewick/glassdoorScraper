@@ -1,9 +1,6 @@
 # glassdoorScraper
-Create 2.0 which now (finally) correctly scrapes and parses subRatings from reviews. 
-
-2.0 scrapes and loads them into a SQLite3 database. 
-
-In settings.py = Edit the aite URL that you want to scrape, along with database name
+1.0 is simple, but the subRatings do not work
+2.0 is a little more complex, but subRatings work, and it utilizes SQLite database for storing
 
 To Do:
 - Add CSV export option in CLI
