@@ -1,0 +1,39 @@
+# This file may be used to create an environment using:
+# gdoorScraper
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+asn1crypto                0.22.0                   py36_0  
+beautifulsoup4            4.6.0                     <pip>
+bs4                       0.0.1                     <pip>
+cffi                      1.10.0                   py36_0  
+conda                     4.3.23                   py36_0  
+conda-env                 2.6.0                         0  
+cryptography              1.8.1                    py36_0  
+idna                      2.5                      py36_0  
+libffi                    3.2.1                         1  
+lxml                      3.8.0                     <pip>
+mkl                       2017.0.3                      0  
+numpy                     1.13.1                   py36_0  
+openssl                   1.0.2l                        0  
+packaging                 16.8                     py36_0  
+pandas                    0.20.3                   py36_0  
+pip                       9.0.1                    py36_1  
+pycosat                   0.6.2                    py36_0  
+pycparser                 2.17                     py36_0  
+pyopenssl                 17.0.0                   py36_0  
+pyparsing                 2.1.4                    py36_0  
+python                    3.6.1                         2  
+python-dateutil           2.6.1                    py36_0  
+pytz                      2017.2                   py36_0  
+readline                  6.2                           2  
+requests                  2.14.2                   py36_0  
+ruamel_yaml               0.11.14                  py36_1  
+setuptools                27.2.0                   py36_0  
+six                       1.10.0                   py36_0  
+sqlite                    3.13.0                        0  
+tk                        8.5.18                        0  
+wheel                     0.29.0                   py36_0  
+xz                        5.2.2                         1  
+yaml                      0.1.6                         0  
+zlib                      1.2.8                         3  
+
