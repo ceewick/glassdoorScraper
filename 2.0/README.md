@@ -4,6 +4,8 @@ Finally created 2.0 which now correctly scrapes and parses subRatings (finally) 
 
 settings.py = Edit this file to choose site URL that you want to scrape, along setting the database name
 
+You might get an error when running, in regards to the UserAgents. Just re-run the script until issue is fixed
+
 To Do:
 - Add CSV export option in CLI
 - Use PhantomJS, or something else, to increase speed of scrape
